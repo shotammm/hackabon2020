@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:98-144
+	android:versionCode
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:2:145-185
+uses-sdk
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+MERGED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:7:5-9:41
+MERGED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+	tools:overrideLibrary
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:13-58
+	android:targetSdkVersion
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-61
+		INJECTED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:5:3-18:17
+MERGED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:13:5-18:19
+MERGED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:13:5-18:19
+	android:label
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:5:90-122
+	android:icon
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:5:58-89
+	android:banner
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:5:145-182
+	android:theme
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:5:16-57
+	android:isGame
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:5:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:5-12:16
+	android:maxAspectRatio
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:138-167
+	android:screenOrientation
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:69-105
+	android:launchMode
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:106-137
+	android:hardwareAccelerated
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:350-385
+	android:configChanges
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:168-349
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:6:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:7:7-11:23
+action#android.intent.action.MAIN
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-61
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:8:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-69
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:10:9-78
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:10:19-75
+meta-data#nreal_sdk
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-64
+	android:value
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:13:41-61
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-40
+meta-data#unity.build-id
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-101
+	android:value
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:14:46-98
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:16:16-50
+meta-data#android.max_aspect
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-73
+	android:value
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:17:50-70
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:17:16-49
+uses-permission#android.permission.CAMERA
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-63
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-66
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-72
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:21:20-69
+uses-feature#0x00020000
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-52
+	android:glEsVersion
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-65
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:23:20-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-64
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:24:20-61
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-88
+	android:required
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:25:61-85
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:26:3-99
+	android:required
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:26:72-96
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:27:3-108
+	android:required
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:27:81-105
+	android:name
+		ADDED from /Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/src/main/AndroidManifest.xml:27:17-80
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:11:22-74
+service#ai.nreal.framework.net.binder.Acceptor
+ADDED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:14:9-17:39
+	android:enabled
+		ADDED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from [:nr_api:] /Users/shotaminami/.gradle/caches/transforms-2/files-2.1/f81bfb6ebd43f6df7643a94cf2a5b409/AndroidManifest.xml:15:13-66
