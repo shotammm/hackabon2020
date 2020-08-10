@@ -233,6 +233,7 @@
      <Compile Include="Assets\NRSDK\Scripts\Utility\SingleTon.cs" />
      <Compile Include="Assets\NRSDK\Scripts\Utility\UpdateWorldOrigin.cs" />
      <Compile Include="Assets\NRSDK\Scripts\Utility\ZipUtility.cs" />
+     <Compile Include="Assets\Scripts\OldSpaceInit.cs" />
      <None Include="Assets\NRSDK\Demos\RGBCamera\Materials\UVCTexture.shader" />
      <None Include="Assets\NRSDK\Resources\Profiller\InstancedColored.shader" />
      <None Include="Assets\NRSDK\Shaders\Unlit-AlphaWithFade.shader" />
