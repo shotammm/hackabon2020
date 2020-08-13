@@ -11,12 +11,14 @@ public class OldSpaceInit : MonoBehaviour {
     public float nowTime;
 
     void Awake() {
+        GameObject masterObj = GameObject.Find("Master");
         for (int x = 0; x < oldSpaceNum; x++) {
             float X = Random.Range (-2.5f, 2.5f);
             float Y = Random.Range (-1.0f, 1.0f);
             float Z = Random.Range (-2.5f, 2.5f);
             GameObject g = Instantiate(boxObjPrefab, boxesObj.transform);
             g.transform.position = new Vector3(X, Y, Z);
+            g.GetComponent<Destroyer>().masterObj = masterObj;
         }
     }
 

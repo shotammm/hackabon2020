@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class Destroyer : MonoBehaviour {
+public class Destroyer : MonoBehaviour, IPointerClickHandler {
 
+    private MeshRenderer m_MeshRender;
     public GameObject masterObj;
 
     // Use this for initialization
@@ -16,7 +18,7 @@ public class Destroyer : MonoBehaviour {
 
     }
 
-    private void OnCollisionEnter(Collision collision) {
+    public void OnPointerClick(PointerEventData eventData){
         OldSpaceInit.oldSpaceNum--;
         Destroy(gameObject);
     }
