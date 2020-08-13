@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-/Users/shotaminami/Desktop/sample17.apk
+/Users/shotaminami/Desktop/sample23.apk
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
@@ -142,6 +142,7 @@ b8a5e8091ab0b8861d2add371082c5e0 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 46a313bfb58772b6a79303ee0c1d4ded Assembly-CSharp.dll:NRKernal.NRExamples.TrackingImageVisualizer
 3fef8356547fc14006cbb837f7f5ace8 Assembly-CSharp.dll:NRKernal.NRMultScrPointerRaycaster
 fe8c471ecd928d749409df28e1fa317c Assembly-CSharp.dll:.OldSpaceInit
+f41f93042eb657f6ba24aa0e93fe1632 Assembly-CSharp.dll:NRKernal.NRExamples.OldSpaceInteractive
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:NRKernal.NRExamples.CubeInteractiveTest
 7e179b9018b32a9e1052910ca06b410a Assembly-CSharp.dll:NRKernal.NRExamples.TrackablePlaneBehaviour
 4af6ab94a517c566b4beee7fcada767d Assembly-CSharp.dll:.TrackableObserver
@@ -233,4 +234,3 @@ d7ef427815a2bcee014988403a851f81 Assembly-CSharp.dll:NRKernal.NRVirtualDisplayer
 9ddebc8dcdb6e3f698d4c0c0e572eddb Assembly-CSharp.dll:NRKernal.FollowMouseMove
 51c200a734c4dfe1c5dff13ce2b3b078 Assembly-CSharp.dll:NRKernal.NRSessionConfig
 0a0eda6a19b4f82d3d4576e489c0a56b Assembly-CSharp.dll:NRKernal.NRExamples.TestNetBehaviour
-f41f93042eb657f6ba24aa0e93fe1632 Assembly-CSharp.dll:.OldSpaceInteractive

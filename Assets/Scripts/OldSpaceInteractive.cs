@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-// namespace NRKernal.NRExamples
-// {
+namespace NRKernal.NRExamples
+{
     public class OldSpaceInteractive : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, IPointerExitHandler
     {
         private MeshRenderer m_MeshRender;
@@ -37,4 +37,4 @@ using UnityEngine.EventSystems;
             m_MeshRender.material.color = Color.white;
         }
     }
-// }
+}

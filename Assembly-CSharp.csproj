@@ -235,6 +235,7 @@
      <Compile Include="Assets\NRSDK\Scripts\Utility\ZipUtility.cs" />
      <Compile Include="Assets\Scripts\DataSender.cs" />
      <Compile Include="Assets\Scripts\Destroyer.cs" />
+     <Compile Include="Assets\Scripts\Master.cs" />
      <Compile Include="Assets\Scripts\OldSpaceInit.cs" />
      <Compile Include="Assets\Scripts\OldSpaceInteractive.cs" />
      <None Include="Assets\NRSDK\Demos\RGBCamera\Materials\UVCTexture.shader" />
