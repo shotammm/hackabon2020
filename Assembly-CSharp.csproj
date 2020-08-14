@@ -238,6 +238,7 @@
      <Compile Include="Assets\Scripts\Master.cs" />
      <Compile Include="Assets\Scripts\OldSpaceInit.cs" />
      <Compile Include="Assets\Scripts\OldSpaceInteractive.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
      <None Include="Assets\NRSDK\Demos\RGBCamera\Materials\UVCTexture.shader" />
      <None Include="Assets\NRSDK\Resources\Profiller\InstancedColored.shader" />
      <None Include="Assets\NRSDK\Shaders\Unlit-AlphaWithFade.shader" />

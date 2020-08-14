@@ -1,4 +1,4 @@
-#Thu Aug 13 16:24:17 JST 2020
+#Fri Aug 14 11:27:32 JST 2020
 base.0=/Users/shotaminami/Documents/Unity/hackabon2020/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

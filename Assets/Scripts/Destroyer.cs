@@ -7,6 +7,7 @@ public class Destroyer : MonoBehaviour, IPointerClickHandler, IPointerEnterHandl
 
     private MeshRenderer m_MeshRender;
     public GameObject masterObj;
+    public int score = 1;
 
     void Awake()
     {
@@ -37,6 +38,7 @@ public class Destroyer : MonoBehaviour, IPointerClickHandler, IPointerEnterHandl
 
     public void OnPointerClick(PointerEventData eventData) {
         OldSpaceInit.oldSpaceNum--;
+        score++;
         Destroy(gameObject);
     }
 }
